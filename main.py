@@ -1,3 +1,6 @@
+#Made By zSkiddoh
+#Date Creation: 14/12/2021
+
 import requests
 import time
 import os
